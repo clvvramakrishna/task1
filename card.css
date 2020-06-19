@@ -1,0 +1,109 @@
+body{
+	margin: 0px;
+	padding: 30px;
+}
+
+.first{
+	border: 2px solid black;
+	border-width: 3px;
+	height: 500px;
+	width: 30%;
+	position: relative;
+	left: 10%;
+	top: 40px;
+	box-shadow: 15px -15px 5px grey;
+}
+
+.second{
+	border: 2px solid black;
+	border-width: 3px;
+	height: 500px;
+	width: 30%;
+	position: relative;
+	left: 55%;
+	top: -467px;
+	box-shadow: 15px -15px 5px grey;
+}
+
+.photo1{
+	position: relative;
+	left: 33%;
+	border: 2px solid black;
+	top: 30px;
+}
+
+.name{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	position: relative;
+	text-align: center;
+	top: 10px;
+}
+
+.email{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 22px;
+	position: relative;
+	text-align: center;
+	top: 10px;
+}
+
+.phno{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	position: relative;
+	text-align: center;
+	top: 10px;
+}
+
+hr{
+	border: 1.5px solid black;
+}
+
+#insta{
+	font-size: 50px;
+	position: relative;
+	top: 25px;
+	left: 20px;
+	color: black;
+}
+#insta:hover{
+	color: rgb(199, 22, 131);
+}
+
+#resume{
+	font-size: 42px;
+	position: relative;
+	left: 80px;
+	top: 21px;
+	color: black;
+}
+#resume:hover{
+	color: blue;
+}
+
+#web{
+	font-size: 50px;
+	position: relative;
+	left: 140px;
+	top: 28px;
+	color: black;
+}
+#web:hover{
+	color: blue;
+}
+
+#facebook{
+	font-size: 50px;
+	position: relative;
+	left: 190px;
+	top: 22px;
+	color: black;
+}
+#facebook:hover{
+	color: blue;
+}
+}
